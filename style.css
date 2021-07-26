@@ -1,0 +1,93 @@
+header{
+    background-color: #f0fff0;
+}
+
+
+/*--------- navigation style start--------*/
+.navbar{
+    padding-top: 15px;
+}
+.navbar-nav li{
+    margin-left: 20px;
+}
+.navbar-nav,.nav-link,.navbar-light{
+    color: black;
+    font-size: 18px;
+}
+.nav-button{
+    background-color:teal;
+    border-radius: 30px;
+    padding: 9px 30px;
+    color: black;
+    white-space: nowrap;
+    border: none;
+}
+.nav-button:hover{
+    background-color: slategray;
+    color: whitesmoke;
+}
+/*--------------- navigation style end --------------------*/
+/*--------------- header content style start  --------------------*/
+.header-content{
+    padding-top: 50px;
+}
+.header-first-line{
+    color: #d35400;
+    font-size: 18px;
+}
+.header-text h1{
+    font-weight:bold;
+    font-size: 55px;
+}
+.header-text span{
+    color: #16a085;
+}
+.header-last-line{
+    font-size: 20px;
+    color: #006266;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    line-height: 2.2em;
+}
+.start-button{
+    background-color:#1289A7;
+    border-radius: 30px;
+    padding: 9px 30px;
+    color: whitesmoke;
+    white-space: nowrap;
+    border: none;   
+}
+.start-button:hover{
+    background-color: #2c2c54;
+    color: #cd6133;
+    padding: 11px 35px;
+}
+/*------------------ header content style end  ------------------------*/
+
+/*----------------- second section style start  --------------*/
+.second-section{
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #f8fffB;
+    margin-top: 60px;
+}
+.second-section img{
+    margin: auto;
+    margin-top: 50px;
+}
+.second-section h5{
+    color: #BDC581;
+    font-size: 25px;
+}
+.second-section p{
+    color: #82589F;
+}
+.card-2, .card-3,.card-4{
+    width: 30%;
+}
+.second-section:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+/*----------------- second section style end  --------------*/
