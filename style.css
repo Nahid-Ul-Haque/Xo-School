@@ -91,3 +91,115 @@ header{
     background-color: white;
 }
 /*----------------- second section style end  --------------*/
+
+/*--------------- third section style start --------------------*/
+
+#third-section-header{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    color: #636e72;
+}
+.third-section .card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px lightgray;
+}
+.third-section img{
+    padding: 20px;
+}
+.third-section h4{
+    color: #2d3436;
+    font-size: 25px;
+    font-weight: 700;
+}
+.third-section p{
+    color: #a4b0be;
+}
+.buy-button{
+    border: none;
+    background-color: #218c74;
+    border-radius: 30px;
+    padding: 9px 25px;
+    color: black;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.card-footer img{
+    width: 60px;
+}
+.footer-icon{
+    margin-left: -25px;
+    color:  #7c7e7c;
+}
+.buy-button:hover{
+    background-color: #182C61;
+    padding: 9px 30px;
+    color: white;
+}
+.third-section .card:hover{
+    margin: -15px;
+    background-color: #CAD3C8;
+    transition-duration: 0.5s;
+}
+/*------------- third section style end --------------*/
+
+/*------------- testimonial section style start  ----------------*/
+#testimonial-section-header{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 60px;
+    color: #EE5A24;
+}
+.testimonial-section img{
+    width: 140px;
+    margin: 0px 50px;
+}
+.testimonial-section{
+    padding: 20px 100px;
+    margin-bottom: 80px;
+}
+.testimonial-section p{
+    color: tomato;
+}
+/*-------------- testimonial section style end  -------------*/
+
+/*------------- footer style start ----------------*/
+footer{
+    background-color: #1e272e;
+}
+.footer-section{
+    padding-top: 50px;
+}
+footer p, footer li{
+    color: white;
+}
+footer ul{
+    padding-left: 80px;
+    white-space: nowrap;
+}
+footer li{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+    text-decoration: none;
+}
+footer small{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
